@@ -1,7 +1,7 @@
 # allthreeworms
 # Project Developing Python Code Creating a *Self-Replicating Worm* to Traverse Network.
 
-**This project is developed by John Nostran, Nick Judson, & Casey McQuilliams.** It is our final project for our participation in *University of San Diego & Fullstack Academy's Cyber Security* bootcamp immersive study program.
+**This project is developed by John Nostrand, Nick Judson, & Casey McQuilliams.** It is our final project for our participation in *University of San Diego & Fullstack Academy's Cyber Security* bootcamp immersive study program.
 
 Our project required us to create a **self-replicating worm using python coding**,  The worm needed to not just identify hosts on our known network subnet, but also to identify other subnets and continue to replicate on-and-on.  
 
