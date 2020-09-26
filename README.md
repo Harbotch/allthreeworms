@@ -10,3 +10,5 @@ Our project required us to create a **self-replicating worm using python coding*
 **Our code does, however, demonstrate the use of nmap & the python-nmap module, paramiko & the paramiko module, and logical python coding techniques for creating lists and accessing/using these lists to our advantage, as well as transferring files form the host machine to the victim machine and insstructing the victim machine to execute the code in the file.**
 
 We drank plenty of :coffee: :coffee: :coffee: during the research portion of this project.
+
+Thank you!
